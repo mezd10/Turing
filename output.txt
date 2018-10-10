@@ -1,0 +1,25 @@
+Number of steps: 1;
+Tape number: 1;
+Position: 7;
+Current symbol: 1;
+Tape:
+Commands :1 -> 0, R; 
+......!..
+_101001__
+
+Tape number: 2;
+Position: 4;
+Current symbol: 1;
+Tape:
+Commands :1 -> 0, R; 
+...!.....
+1_01111__
+
+Tape number: 3;
+Position: 2;
+Current symbol: _;
+Tape:
+Commands :0 -> 0, R; 
+.!.......
+0_11000__
+
